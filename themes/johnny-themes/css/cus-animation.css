@@ -1,0 +1,25 @@
+#ates{
+	 -webkit-animation-duration: 3s;
+ 	 -webkit-animation-delay: 2s;
+  /*-webkit-animation-iteration-count: infinite;*/
+}
+.animation-step-1{
+	-webkit-animation-duration: 1.5s;
+ 	 -webkit-animation-delay: 1s;
+}
+.animation-step-2{
+	-webkit-animation-duration: 2.5s;
+ 	 -webkit-animation-delay: 2s;
+}
+.animation-step-3{
+	-webkit-animation-duration: 3.1s;
+ 	 -webkit-animation-delay: 1s;
+}
+.animation-step-4{
+	-webkit-animation-duration: 5.1s;
+ 	 -webkit-animation-delay: 2s;
+}
+.animation-step-5{
+	-webkit-animation-duration: 1.1s;
+ 	 -webkit-animation-delay: 5s;
+}
